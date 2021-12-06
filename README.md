@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Iris Liu</h1>
 <h3 align="center">A MIS student devoted to learning data science and programming</h3>
 
-- 🛠 I’m currently working on **developing a production and marketing website**
+- 🛠 I’m currently working on developing an app for **identification of cats and dogs, and raise them in the game**
 
-- 🤝 I’m looking for intern opportunities **dealing with data or engineering**
+- 🤝 I’m looking for intern opportunities **dealing with data** or **engineering**
 
-- 🔍 I’m looking to collaborate on **any projects applying basic data analysis skills and coding**
+- 🔍 I’m looking to collaborate on any projects applying **basic data analysis skills and coding**
 
-- 📚 I’m currently learning **Python, R, and keep improving my skills in Java**
+- 📚 I’m currently learning **Python, R**, and keep improving my skills in **Java**
 
 - 📌 All of my projects are available at [https://github.com/Hsuan127](https://github.com/Hsuan127)
 
