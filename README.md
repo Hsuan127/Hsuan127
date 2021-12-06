@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Iris Liu</h1>
-<h3 align="center">A MIS student devoted to learning programming in Taiwan</h3>
+<h3 align="center">A MIS student devoted to learning data science and programming</h3>
 
 - 🛠 I’m currently working on **developing a production and marketing website**
 
