@@ -13,7 +13,7 @@
 
 - ⭐️ I share my life on [https://www.instagram.com/hsuan1127_/](https://www.instagram.com/hsuan1127_/)
 
-- 📫 Reach me at: **iris891127@gmail.com**
+- 📫 Reach me at: **iris.ihsuanliu@gmail.com**
 
 - 📄 Know about my experiences [irisliu_resume](https://docs.google.com/document/d/1Nk2jGU0hTUvSYKihluacZRFZh_7ZGWCN/edit?usp=sharing&ouid=100100405982932610315&rtpof=true&sd=true)
 
