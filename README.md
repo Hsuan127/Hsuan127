@@ -3,9 +3,9 @@
 
 - 🛠 I’m currently working on developing an app for **promoting adoption of dogs and cats**
 
-- 🤝 I’m looking for intern opportunities **dealing with data** or **engineering**
+- 🤝 I’m looking for intern opportunities **building AI models and analyzing data**
 
-- 🔍 I’m looking to collaborate on any projects applying **basic data analysis skills and coding**
+- 🔍 I’m looking to collaborate on any projects applying **basic data analysis or ML/DL**
 
 - 📚 I’m currently learning **Python, R**, and keep improving my skills in **Java**
 
