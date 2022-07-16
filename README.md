@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Iris Liu</h1>
 <h3 align="center">An MIS student devoted to learning data science and programming</h3>
 
-- 🛠 I’m currently working on developing an app for **promoting adoption of daogs and cats**
+- 🛠 I’m currently working on developing an app for **promoting adoption of dogs and cats**
 
 - 🤝 I’m looking for intern opportunities **dealing with data** or **engineering**
 
