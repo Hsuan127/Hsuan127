@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Iris Liu</h1>
 <h3 align="center">A passionate Data Scientist and AI Engineer, driven to create innovative AI-powered solutions that make a real impact.</h3>
 
-- 🛠 Currently working on developing an LLM-based Data Analysis Platform, which connects LLM to many different data sources, and utilizes the Text-to-SQL technologies to interact with your database easily.**
+- 🛠 Currently working on developing an **LLM-based Data Analysis Platform**, which connects LLM to many different data sources, and utilizes the **Text-to-SQL** technologies to interact with your database easily.
 
 - 🔍 I am eager to collaborate on any projects applying **Statistics Analysis, Machine Learning, Deep Learning, Generative AI**
 
