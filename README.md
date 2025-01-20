@@ -1,13 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Iris Liu</h1>
-<h3 align="center">An MIS student who has passion in learning data science and programming</h3>
+<h3 align="center">A passionate Data Scientist and AI Engineer, driven to create innovative AI-powered solutions that make a real impact.</h3>
 
-- 🛠 Currently working on developing a website for **Slavic languages error annotation**
+- 🛠 Currently working on developing an LLM-based Data Analysis Platform, which connects LLM to many different data sources, and utilizes the Text-to-SQL technologies to interact with your database easily.**
 
-- 🤝 I’m looking for **data engineer**, **software engineer**, **data scientist** jobs
+- 🔍 I am eager to collaborate on any projects applying **Statistics Analysis, Machine Learning, Deep Learning, Generative AI**
 
-- 🔍 I eager to collaborate on any projects applying **basic data analysis or ML/DL**
-
-- 📚 I’m currently learning **Python, R**, and keep improving my skills in **Java**
+- 📚 I’m currently learning **LLM Frameworks**, and keep improving my skills in **Software Engineering**
 
 - 📌 All of my projects are available at [https://github.com/Hsuan127](https://github.com/Hsuan127)
 
@@ -15,7 +13,7 @@
 
 - 📫 Reach me at: **iris.ihsuanliu@gmail.com**
 
-- 📄 Know about my experiences [irisliu_resume](https://docs.google.com/document/d/1Nk2jGU0hTUvSYKihluacZRFZh_7ZGWCN/edit?usp=sharing&ouid=100100405982932610315&rtpof=true&sd=true)
+- 📄 Know about my experiences [irisliu_resume](https://www.cake.me/s--9GYltI9yFdgPwD7noCcUHg--/iris891127)
 
 - ⚡ My motto: **"Stay gold"**
 
