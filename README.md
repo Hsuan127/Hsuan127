@@ -5,7 +5,7 @@
 
 - 🔍 I am eager to collaborate on any projects applying **Generative AI, Statistics Analysis, Machine Learning, Deep Learning**
 
-- 📚 I’m currently learning **LLM Frameworks** and the most **AI Technics**, and keep improving my skills in **Software Engineering**
+- 📚 I’m currently learning **LLM Frameworks** and the most **cutting edge AI technics**, and keep improving my skills in **Software Engineering**
 
 - 📌 All of my projects are available at [https://github.com/Hsuan127](https://github.com/Hsuan127)
 
